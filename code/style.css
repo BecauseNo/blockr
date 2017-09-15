@@ -1,0 +1,29 @@
+#AA{
+	position:absolute;
+	top:0px;
+	left:629px;
+	
+}
+
+
+	
+
+#set{
+	
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:63px;
+	height:32px;
+	background-color:#f00;
+}
+
+#cont{
+	width:1000px;
+	height:1000px;
+	background-color:#000;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:-100000;
+}
